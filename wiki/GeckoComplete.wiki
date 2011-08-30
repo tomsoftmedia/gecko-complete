@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+A engine that based with the original GeckoFX engine that use in Mozilla Firefox.
+
+
+= Details =
+
+This engine had all function like OpenSharpGecko by Quantum1423. Simply this engine is the perfect merging between GeckoFX from hindlemail & OpenSharpGecko.
