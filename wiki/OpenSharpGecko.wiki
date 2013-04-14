@@ -1,6 +1,0 @@
-#summary OpenSharpGecko
-#labels Featured
-
-= Introduction =
-
-Is a engine that builded by Eric Dong known as quantum1423. He only 13 years old but created a greatest engine for Gecko forums.
